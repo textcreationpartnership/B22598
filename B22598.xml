@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two letters from his excellencie Robert, Earl of Essex the one unto the speaker of the House of Commons : relating the true state of the late skirmish at Chinner between a party of the Kings and Parliaments forces on the sabbath day the 19</title>
+            <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22598</idno>
+            <idno type="STC">Wing E3338</idno>
+            <idno type="EEBO-CITATION">12074906</idno>
+            <idno type="OCLC">ocm 12074906</idno>
+            <idno type="VID">196808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196808)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 238:E55, no 19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two letters from his excellencie Robert, Earl of Essex the one unto the speaker of the House of Commons : relating the true state of the late skirmish at Chinner between a party of the Kings and Parliaments forces on the sabbath day the 19</title>
+                  <author>Essex, Robert Devereux, Earl of, 1591-1646.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Edw. Husbands ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 23, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Both letters had already appeared separately.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chinnor (Oxfordshire) --  Siege, 1643.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196808:1" rendition="simple:additions"/>
+            <p>TVVO LETTERS FROM HIS EXCELLENCIE <hi>Robert</hi> Earl of ESSEX: The one unto the <hi>SPEAKER</hi> of the Houſe of Commons; Relating the true ſtate of the late Skirmiſh at <hi>Chinner,</hi> between a party of the <hi>KINGS</hi> and Parliaments Forces, on the Sabbath day the 19. of <hi>June,</hi> 1643. with the number of ſuch perſons as was taken and ſlain on both ſides.</p>
+            <p>The other to the well-affected of the County of <hi>ESSEX.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered by the Commons Houſe in Parliament, That theſe two Letters be forthwith Printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Elſynge Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edw: Husbands,</hi> and are to be ſold at his ſhop in the <hi>Middle-Temple, June</hi> 23. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:196808:2"/>
+            <pb n="3" facs="tcp:196808:2"/>
+            <head>A Letter ſent from his Excellencie <hi>Robert</hi> Earl of Eſſex, directed to the Speaker of the Houſe of <hi>COMMONS.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here being ſome of my Horſe that had an Encounter with the Enemy yeſter<g ref="char:EOLhyphen"/>day being Sunday; I thought fit to give the Houſe an Account of the par<g ref="char:EOLhyphen"/>ticulars of it, knowing how apt many are to miſ-report things to our diſad<g ref="char:EOLhyphen"/>vantage.</p>
+            <p>About two of the clocke on Sunday morning, the Enemy with about twelve hundred Horſe and a great body of Dragoons fell into a Towne called <hi>Percham,</hi> where o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Troope of Horſe (being Colo<g ref="char:EOLhyphen"/>nell <hi>Morleyes</hi>) was Quartered, of which they tooke the greateſt part, and from thence went not far to a<g ref="char:EOLhyphen"/>nother
+<pb n="4" facs="tcp:196808:3"/>Village called Chinner, where they beat up ſome of the new Bedfordſhire Dragoons and tooke ſome of them Priſoners, and three of their Colours, and ſome of the Officers behaving themſelves very well, and defending the Houſes wherein they were; they ſet fire on the Towne; theſe being out-Quar<g ref="char:EOLhyphen"/>ters, the Alarm came where Major <hi>Gunter</hi> lay with three Troopes <hi>(viz.)</hi> his own, Captain <hi>Sheffields,</hi> and Captain <hi>Croſſes,</hi> whom he preſently drew out and marched towards the Enemy; Colonell <hi>Hamp<g ref="char:EOLhyphen"/>den</hi> being abroad with Sir <hi>Samuel Luke</hi> and onely one man, and ſeeing M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jor <hi>Gunters</hi> Forces, they did go along with them, Colonel <hi>Dulbeir</hi> the Quarter<g ref="char:EOLhyphen"/>maſter Generall did likewiſe come to them: with theſe they drew neare the Enemy, and finding them marching away, kept ſtill upon the Reare for almoſt five Miles. In this time there joyned with them Captain <hi>Sanders</hi> Troop, and C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptain <hi>Buller,</hi> with fifty commanded men, which were ſent to Chinner by Sir <hi>Philip Stapleton,</hi> who had the Watch here that night at Thame, when hee diſcovered the fire there, to know the occaſion of it, he likewiſe ſent one Troope of Dragoones under the command of Captaine <hi>Dundaſſe,</hi> who came up to them. There were likewiſe ſome few of Colonell <hi>Melves</hi> Dragoons that came to them: at length our men preſſed them ſo neer, that being in a large paſture ground they drew up, and notwithſtanding the ine<g ref="char:EOLhyphen"/>quality of the numbers, we having not above 300. Horſe, our men charged them very gallantly, and ſlew divers of them; but while they were in fight,
+<pb n="5" facs="tcp:196808:3"/>the Enemy being ſo very ſtrong, kept a Body of horſe for his reſerve, and with that Body wheel'd a<g ref="char:EOLhyphen"/>bout and charg'd our men in the Reare, ſo that being encompaſſed and overborne with multitude, they broke and fled, though it was not very far; For when I heard that our men marched in the Reare of the E<g ref="char:EOLhyphen"/>nemy, I ſent to Sir <hi>Philip Stapleton,</hi> who preſently Marched toward them with his Regiment; &amp; though he came ſomewhat ſhort of the Skirmiſh, yet ſeeing our men Retreat in that diſorder, he ſtopt them, cau<g ref="char:EOLhyphen"/>ſed them to draw into a Body with him, where they ſtood about an hour: Whereupon the Enemy mar<g ref="char:EOLhyphen"/>ched away. In this Skirmiſh there were ſlain forty and five on both ſides, whereof the greater part were theirs.</p>
+            <p>They carryed off the Bodies of divers perſons of quality. On our ſide Major <hi>Gunter</hi> was killed, but ſome ſay he is priſoner and ſo hurt; a man of much courage and fidelity, his bravery engaging him, and his ſmall party too far: Colonell <hi>Hamden</hi> put him<g ref="char:EOLhyphen"/>ſelfe in Captaine <hi>Croſſe</hi> his Troop, where he char<g ref="char:EOLhyphen"/>ged with much courage, and was unfortunately ſhot through the Shoulder. Sir <hi>Samuel Luke</hi> thrice taken priſoner, and fortunately reſcued: Captain <hi>Croſſe</hi> had his horſe killed under him in the middeſt of the Enemy, and was mounted by one of his owne men, who quitted his owne horſe to ſave his Captain.</p>
+            <p>Captain <hi>Buller</hi> was ſhot in the neck, who ſhew<g ref="char:EOLhyphen"/>ed very much reſolution in this fight, taking one priſoner after hee was ſhott. Mounſieur <hi>Dulbier</hi> with Captaine <hi>Boſa</hi> and Captaine <hi>Ennis,</hi> did likewiſe
+<pb n="6" facs="tcp:196808:4"/>carry themſelves very well. Wee likewiſe loſt two colours, <hi>viz.</hi> Major <hi>Gunters</hi> and Captain <hi>Sheffeilds;</hi> no priſoners of quality were taken by the enemy, but Captain <hi>Sheffeilds</hi> Brother. Prince <hi>Rupert</hi> was there in perſon, and the Renagado <hi>Hurry.</hi> Wee took pri<g ref="char:EOLhyphen"/>ſoner one of the Earle of Berks ſonnes, Captaine <hi>Gardener,</hi> the late Recorders ſonne of London, and captain <hi>Smith,</hi> with ſome others of quality and di<g ref="char:EOLhyphen"/>vers priſoners.</p>
+            <p>Sir, this is the true Relation of what paſſed in this buſineſſe, I reſt;</p>
+            <closer>
+               <signed>Your aſſured Friend <hi>ESSEX.</hi>
+               </signed>
+               <dateline>Thame. <date>19 June. 1643.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:196808:4"/>
+            <head>A Letter ſent from his Excellency the Earl of <hi>Eſſex,</hi> to the Gentlemen, Freeholders and well-affected people in the County of <hi>Eſſex.</hi>
+            </head>
+            <p>HEaring of your readineſſe to aſſiſt in this great cauſe with your perſons and purſes, for the de<g ref="char:EOLhyphen"/>fence of Religion and Liberty, and what ever is deare unto us, and of your willingneſſe to riſe gene<g ref="char:EOLhyphen"/>rally, and to joyn with other Counties, to deliver your ſelves from that ſlavery and miſery that our enemies would bring upon us. I do with much joy receive your reſolutions, and count it a ſpeciall mercy of God, that makes his people ſenſible of their dangers, and willing to hazard their lives for him, and do judge it the moſt hopefull means of concluding theſe unhappy diſtracti<g ref="char:EOLhyphen"/>ons of the Kingdom. Therefore I deſire you to aſſure your ſelves of all aſſiſtance from me that the Army can afford, and my earneſt deſire is to helpe you in it. And I deſire ſuch may appear in this cauſe, as have moſt in<g ref="char:EOLhyphen"/>tereſt in it; ſuch of whoſe conſtancy and courage wee may be aſſured, men of Religious lives and affections fitteſt to bear Arms for truth of Religion, Men of e<g ref="char:EOLhyphen"/>ſtates to defend thoſe eſtates that the enemy ſeeks to de<g ref="char:EOLhyphen"/>vour: The employment is not too mean for the beſt
+<pb n="8" facs="tcp:196808:5"/>men, and then we ſhall hope for ſucceſſe when ſuch put their hands to the work; for aſſure your ſelves, the looſ<g ref="char:EOLhyphen"/>neſſe and inconſtancy of the Souldiers, amongſt others is one cauſe of the continuance of the Warre. I deſire you to provide your ſelves as well as you can with arms and neceſſaries, and to bring ſix weeks pay in your pur<g ref="char:EOLhyphen"/>ſes, conſidering that the march is long, and but a moneth of that may be ſpent in ſervice; when that time is ex<g ref="char:EOLhyphen"/>pired, we hope you may returne home with peace; If we ſhall entreat your further helpe, we ſhall provide for you as well as God will enable us. Chuſe Comman<g ref="char:EOLhyphen"/>ders your ſelves, Colonells and Captains, when we ſhall heare their names we ſhall ſend them Commiſſions, and when you ſhall come near us, we ſhall ſend ſome able and experienc't Commanders from our Army to aſſiſt you. Doubt not of your Country in your abſence, we ſhall take a courſe for the ſecuring and quieting of the Malignants; your ſafety is in being in Arms, it will be your happineſſe to fight with your enemies at diſtance, and ſo keep them from ſpoyling that as yet peaceable and flouriſhing County. If God ſtirre the hearts of people to appeare generally, and to proſper our endea<g ref="char:EOLhyphen"/>vours, wee hope the ſucceſſe will be happy and com<g ref="char:EOLhyphen"/>fortable.</p>
+            <closer>
+               <dateline>Stoken Church, <date>9. June, 1643.</date>
+               </dateline>
+               <signed>Your aſſured Friend, <hi>Eſſex.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
